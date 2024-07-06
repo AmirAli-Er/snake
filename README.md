@@ -2,6 +2,6 @@
 
 ## Snake🐍💾
 
-There's a simple game inspired by the Nokia Sneak game :)
+There's a simple game inspired by the Nokia Snake game :)
 
 > you can install _**pygame**_ by `pip install pygame` and then run `main.py`
